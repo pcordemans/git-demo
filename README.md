@@ -47,6 +47,8 @@ int main(void) {
 
 Trying to explain the dev branch workings.
 
+Are a bit hard.
+
 ## Disclaimer
 
 This was created as a demo.
