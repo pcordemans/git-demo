@@ -2,7 +2,7 @@
 
 [[toc]]
 
-Git is a version management system.
+Git is a version management system and was developed by Linus.
 
 ## Subtitle
 
