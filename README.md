@@ -1,6 +1,6 @@
 # Git Demo
 
-Nice demos by Nico De Witte, Good job!
+Nice demos by Nico De Witte, Good job! Great job actually.
 
 [[toc]]
 
