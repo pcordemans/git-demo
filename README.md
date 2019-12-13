@@ -2,7 +2,7 @@
 
 [[toc]]
 
-Dit is wat tekst.
+Dit is wat tekst. Dit is een betere intro.
 
 ## Subtitle
 
